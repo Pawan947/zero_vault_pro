@@ -1,0 +1,21 @@
+ZeroV2 — Secure Team Storage with WebAuthn
+==========================================
+
+Original Author: Pawan Yadav
+GitHub: https://github.com/Pawan947
+Year: 2026
+
+This software was designed, built, and is owned by Pawan Yadav.
+Any copy, fork, or derivative of this project must retain this NOTICE
+and the original copyright notice in the LICENSE file.
+
+Technology Stack:
+- Node.js + Express backend
+- Firebase Authentication & Realtime Database
+- S3-compatible object storage
+- WebAuthn / Passkey MFA (@simplewebauthn)
+- AES-256-CTR file encryption
+- EJS templating
+- Vercel deployment
+
+Submitted as part of PEP Classes project — February 2026.

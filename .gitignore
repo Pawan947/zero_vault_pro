@@ -1,0 +1,64 @@
+# ---- Secrets ----
+.env
+.env.*
+!.env.example
+
+# ---- Dev / Debug Tools ----
+diagnostics.js
+diag_output.txt
+
+# ---- Backup Files ----
+*.bak
+*.backup
+
+# ---- Internal Docs ----
+documnetation.md
+
+# ---- Node ----
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# ---- Runtime ----
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# ---- Coverage ----
+coverage
+*.lcov
+.nyc_output
+
+# ---- Build / Cache ----
+.npm
+.eslintcache
+.cache
+.next
+.nuxt
+dist
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+*.tsbuildinfo
+typings/
+build/Release
+lib-cov
+.grunt
+bower_components
+.lock-wscript
+jspm_packages/
+*.tgz
+.yarn-integrity
+.tern-port
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
