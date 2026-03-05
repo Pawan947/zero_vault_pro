@@ -25,7 +25,7 @@
 ---
 <div align="center">
 
-### 🌐Available 
+### 🌐Avail your space.....
 <a href="https://workzen.space">https://workzen.space</a>
 
 </div>
