@@ -23,7 +23,12 @@
 </div>
 
 ---
-<a href="workzen.space"> available here</a>
+<div align="center">
+
+### 🌐Available 
+<a href="https://workzen.space">https://workzen.space</a>
+
+</div>
 ## ⚡ What is Zero Vault Pro?
 
 > A **phishing-resistant, zero-trust cloud storage platform** where every file is encrypted, every share link is policy-bound, and every login can be locked behind a hardware passkey — all without managing a single raw S3 bucket.
